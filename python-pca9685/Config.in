@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_PCA9685
+	bool "python-pca9685"
+	help
+	  Python driver module for PCA9685 pwm (LED/Servo) controller
+
+	  https://github.com/voidpp/PCA9685-driver

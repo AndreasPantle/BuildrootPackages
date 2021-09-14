@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_DEBUGPY
+	bool "python-debugpy"
+	help
+	  An implementation of the Debug Adapter Protocol for Python
+
+	  https://github.com/microsoft/debugpy/
