@@ -1,2 +1,13 @@
-md5  0c1103c7234b1f547eb705aff150ab31  debugpy-1.4.1.zip
-sha256  889316de0b8ff3732927cb058cfbd3371e4cd0002ecc170d34c755ad289c867c  debugpy-1.4.1.zip
+# md5, sha256 from https://pypi.org/pypi/debugpy/json
+#md5  84900a0cbb80b172d75909b4edcbc736  debugpy-1.3.0.zip
+#sha256  71ab9068e87a28cfbb7a7db041a946ac5493d45d0c61280021af038e14a64232  debugpy-1.3.0.zip
+
+#md5  0c1103c7234b1f547eb705aff150ab31  debugpy-1.4.1.zip
+#sha256  889316de0b8ff3732927cb058cfbd3371e4cd0002ecc170d34c755ad289c867c  debugpy-1.4.1.zip
+
+# md5, sha256 from https://pypi.org/pypi/debugpy/json
+#md5  27a4789bfda161dc7de6a6860eeeff38  debugpy-1.6.0.zip
+#sha256  7b79c40852991f7b6c3ea65845ed0f5f6b731c37f4f9ad9c61e2ab4bd48a9275  debugpy-1.6.0.zip
+
+md5  6067cdf80032370d40eacddcbc5e409c  debugpy-1.6.2.zip
+sha256  e6047272e97a11aa6898138c1c88c8cf61838deeb2a4f0a74e63bb567f8dafc6  debugpy-1.6.2.zip
