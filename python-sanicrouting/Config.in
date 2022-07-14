@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_SANICROUTING
+	bool "python-sanicrouting"
+	help
+	  Internal handler routing for Sanic.
+
+	  https://github.com/sanic-org/sanic-routing/

@@ -1,0 +1,14 @@
+config BR2_PACKAGE_PYTHON_SANIC
+	bool "python-sanic"
+	select BR2_PACKAGE_PYTHON_SANICROUTING
+	select BR2_PACKAGE_PYTHON_AIOFILES
+	select BR2_PACKAGE_PYTHON_HTTPTOOLS
+	select BR2_PACKAGE_PYTHON_MULTIDICT
+	select BR2_PACKAGE_PYTHON_UJSON
+	select BR2_PACKAGE_PYTHON_UVLOOP
+	select BR2_PACKAGE_PYTHON_WEBSOCKETS
+	help
+	  A web server and web framework that's written to go fast.
+	  Build fast. Run fast.
+
+	  http://github.com/sanic-org/sanic/
