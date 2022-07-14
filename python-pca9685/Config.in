@@ -1,5 +1,6 @@
 config BR2_PACKAGE_PYTHON_PCA9685
 	bool "python-pca9685"
+	select BR2_PACKAGE_PYTHON_SMBUS_CFFI
 	help
 	  Python driver module for PCA9685 pwm (LED/Servo) controller
 
