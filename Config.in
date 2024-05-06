@@ -1,10 +1,11 @@
-if BR2_PACKAGE_PYTHON || BR2_PACKAGE_PYTHON3
+if BR2_PACKAGE_PYTHON3
 menu "External python modules"
 	source "package/python-debugpy/Config.in"
+	source "package/python-html5tagger/Config.in"
 	source "package/python-httptools/Config.in"
 	source "package/python-pca9685/Config.in"
-	source "package/python-ptvsd/Config.in"
 	source "package/python-rpyc/Config.in"
 	source "package/python-sanic/Config.in"
 	source "package/python-sanicrouting/Config.in"
+	source "package/python-tracerite/Config.in"
 endmenu
