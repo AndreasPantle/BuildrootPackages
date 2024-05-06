@@ -1,0 +1,7 @@
+config BR2_PACKAGE_PYTHON_TRACERITE
+	bool "python-tracerite"
+	select BR2_PACKAGE_PYTHON_HTML5TAGGER
+	help
+	  Nicer error messages for Python
+
+	  https://github.com/sanic-org/tracerite
