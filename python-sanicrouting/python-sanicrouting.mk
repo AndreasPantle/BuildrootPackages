@@ -4,9 +4,9 @@
 #
 ################################################################################
 
-PYTHON_SANICROUTING_VERSION = 22.3.0
+PYTHON_SANICROUTING_VERSION = 23.12.0
 PYTHON_SANICROUTING_SOURCE = sanic-routing-$(PYTHON_SANICROUTING_VERSION).tar.gz
-PYTHON_SANICROUTING_SITE = https://files.pythonhosted.org/packages/c3/72/e82be1d019e094f6b983bec9fee5ea512e8aaafe97b5346af2ba0e25cd56
+PYTHON_SANICROUTING_SITE = https://files.pythonhosted.org/packages/d1/5c/2a7edd14fbccca3719a8d680951d4b25f986752c781c61ccf156a6d1ebff
 PYTHON_SANICROUTING_SETUP_TYPE = setuptools
 PYTHON_SANICROUTING_LICENSE = MIT
 PYTHON_SANICROUTING_LICENSE_FILES = LICENSE

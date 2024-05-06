@@ -4,9 +4,9 @@
 #
 ################################################################################
 
-PYTHON_SANIC_VERSION = 22.6.0
+PYTHON_SANIC_VERSION = 23.12.1
 PYTHON_SANIC_SOURCE = sanic-$(PYTHON_SANIC_VERSION).tar.gz
-PYTHON_SANIC_SITE = https://files.pythonhosted.org/packages/ed/fe/113b27450bd5dd12d4204adb0692f5e987751f739c415777ecdb4c903d10
+PYTHON_SANIC_SITE = https://files.pythonhosted.org/packages/85/95/c15f1a2f8d53f59f206af0fdadf839289fe1e79b6c85f708832c0b960cf3
 PYTHON_SANIC_SETUP_TYPE = setuptools
 PYTHON_SANIC_LICENSE = MIT
 PYTHON_SANIC_LICENSE_FILES = LICENSE

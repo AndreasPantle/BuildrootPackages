@@ -1,6 +1,3 @@
 # md5, sha256 from https://pypi.org/pypi/sanic/json
-#md5  07886d5c15ee47e80e3aec8a9e8bbb5f  sanic-22.3.1.tar.gz
-#sha256  1e13006b49830253d1fbd9ffd3597e5b2b0cc7e51f2da38c1d4f19f053563bce  sanic-22.3.1.tar.gz
-
-md5  6d2b9ff4018c5c8c2f26d6e0c906d371  sanic-22.6.0.tar.gz
-sha256  d0653de59cf3073d8ca047253db72c868510d45d753c13b6316aede769fb66fb  sanic-22.6.0.tar.gz
+md5  1030039a7fd0e26fc41fb64a1b01ee84  sanic-23.12.1.tar.gz
+sha256  2528ca81d2bdc58ea67d93c500df1a9c58404904b0bc3442425b464c72b4bb84  sanic-23.12.1.tar.gz
