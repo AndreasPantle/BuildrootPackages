@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_HTML5TAGGER
+	bool "python-html5tagger"
+	help
+	  HTML5 Generation with html5tagger: Fast, Pure Python, No Dependencies
+
+	  https://github.com/sanic-org/html5tagger
